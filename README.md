@@ -44,8 +44,8 @@ A to do list app that also acts as a money guide for people trying to complete t
 * [x]Completing tasks must subtract from the total money display
 * ...
 
-Week 9 Update: 
-https://www.loom.com/share/db539d46e8f54157a45934b11c10fbe3?sid=36a59420-fb22-468a-a1f7-83219e58006c
+Week 10 Update: 
+https://www.loom.com/share/543187bbb4544b9d9c8f7fdbac8f286e?sid=04c91492-84f3-4e8a-9218-749480e86c45
 
 ### 2. Screen Archetypes
 
