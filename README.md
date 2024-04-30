@@ -32,16 +32,16 @@ A to do list app that also acts as a money guide for people trying to complete t
 
 **Required Must-have Stories**
 
-* User must be able to add to dos
-* There must be a display of total money required for completing given to dos
-* User must be able to delete to dos
-* User must be able to edit to dos
+* [x]User must be able to add to dos
+* [x]There must be a display of total money required for completing given to dos
+* [x]User must be able to delete to dos
+* [x]User must be able to edit to dos
 * ...
 
 **Optional Nice-to-have Stories**
 
 * User must be able to upload an image of their completed to do to the app for journaling their progress.
-* Completing tasks must subtract from the total money display
+* [x]Completing tasks must subtract from the total money display
 * ...
 
 Week 9 Update: 
